@@ -1,8 +1,4 @@
 {
-  "publishConfig": {
-    "provenance": true,
-    "access": "public"
-  },
   "name": "meanjs",
   "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
   "version": "0.5.0",
@@ -121,5 +117,9 @@
     "semver": "~5.3.0",
     "should": "~11.1.0",
     "supertest": "~2.0.0"
+  },
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
   }
 }
