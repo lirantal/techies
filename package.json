@@ -53,7 +53,7 @@
     "file-stream-rotator": "~1.0.0",
     "generate-password": "~1.7.1",
     "glob": "~13.0.6",
-    "helmet": "~8.2.0",
+    "helmet": "~8.3.0",
     "jasmine-core": "~6.3.0",
     "lodash": "~4.18.1",
     "lusca": "~1.7.0",
